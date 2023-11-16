@@ -8,7 +8,7 @@
   <h1 align="center">UNIVERSIDAD TECNOLÓGICA DE XICOTEPEC DE JUÁREZ</h1>
   <h2 align="center">ARELY AGUILAR FARIAS M-200559</h2>
   <h3 align="center">Creacion del modelado jugadores e implementacion de busqueda de todos los jugadores</h3>
-  <h5 align="center">Creacion del modelado jugadores e implementacion de busqueda de todos los jugadores creamos un código donde hicimos un conjunto de funciones para manejar operaciones relacionadas con jugadores en una nuestro videojuego. Cada función corresponde a una operación específica que puede llevarse a cabo sobre los datos de un jugador en el sistema. Cada función toma dos parámetros (req y res), que representan la solicitud (request) y la respuesta (response) en un entorno de servidor.</h5>
+  <h5 align="center">Creacion del modelado jugadores e implementacion de busqueda de todos los jugadores creamos un código donde hicimos un conjunto de funciones para manejar operaciones relacionadas con jugadores en una nuestro videojuego. Cada función corresponde a una operación específica que puede llevarse a cabo sobre los datos de un jugador en el sistema. Cada función toma dos parámetros (req y res), que representan la solicitud (request) y la respuesta (response) en un entorno de servidor..</h5>
   <h3 align="center">Fecha de entrega: 17/Noviembre/2023</h3>
 </P>
 
